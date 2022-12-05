@@ -1,4 +1,4 @@
-# SparklyEmbeds
+# Sparkly Embeds
 Repositorio exclusivamente para el almacenamiento de los .JSON utilizados en los banners de la comunidad de Discord, Sparkly.
 
 # Importante
